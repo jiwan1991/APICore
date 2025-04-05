@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\PubTmp\Out\EmployeeManagementSystem.exe
+C:\Users\user\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\user\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\PubTmp\Out\appsettings.json
+C:\Users\user\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\PubTmp\Out\EmployeeManagementSystem.dll
+C:\Users\user\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\PubTmp\Out\EmployeeManagementSystem.deps.json
+C:\Users\user\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\PubTmp\Out\EmployeeManagementSystem.runtimeconfig.json
+C:\Users\user\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\PubTmp\Out\EmployeeManagementSystem.pdb
+C:\Users\user\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\user\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
