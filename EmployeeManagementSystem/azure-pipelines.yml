@@ -22,9 +22,9 @@ steps:
 
   # Install Nuget Tool Installer
   - task: NuGetToolInstaller@0
-    displayName: Use NuGet 6.13.2.1
+    displayName: Use NuGet 4.8.1
     inputs:
-      versionSpec: 6.13.2.1.x
+      versionSpec: 4.8.1
 
   # Install NBGV Tool
   - task: DotNetCoreCLI@2
