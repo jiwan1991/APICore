@@ -9,8 +9,7 @@ pr:
   - rel/*
 
 # Microsoft-hosted agent pool for Visual Studio 2022
-pool:
-  vmImage: windows-2022
+pool: My System Agent
 
 steps:
   # Setup Environment Variables
