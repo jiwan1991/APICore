@@ -38,9 +38,9 @@ steps:
   - script: nbgv cloud
     displayName: Set Version
 
-  # Install Windows SDK 18362 (minimum compatible sdk)
-  - powershell: .\build\Install-WindowsSdkISO.ps1 22621
-    displayName: Insider SDK
+  # # Install Windows SDK 18362 (minimum compatible sdk)
+  # - powershell: .\build\Install-WindowsSdkISO.ps1 22621
+  #   displayName: Insider SDK
 
   # restore & build solution
   - script: msbuild -r -target:Build -p:Configuration=CI -p:GenerateLibraryLayout=true
